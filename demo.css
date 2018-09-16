@@ -82,7 +82,7 @@ body {
 @media (max-width: 767px) {
 	.countdown-container {
 		width:90%;
-		/* border:1px solid red; */
+		top:75%;
 	
 	}
 
