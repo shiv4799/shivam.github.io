@@ -233,9 +233,7 @@
   height:auto;
   vertical-align: middle;
 }
-.col-md-3{
-  height:177px;
-}
+
 
  /* team  */
 
@@ -246,12 +244,13 @@
 
 .team{
   text-align: center;
-  height: 560px;
-  /* filter:blur(10px); */
+  height:500px;
   
 }
 
 .team h1{
+  background: rgba(33,228,60,0.2);
+  width: 100%;
  padding-top: 30px;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
@@ -260,7 +259,17 @@
   color:#fff;
   /* margin-bottom: 60px; */
 }
-.team img{
-  width:200px;
-  height: 200px;
+
+
+/* contacts */
+
+.contact h1{
+  width: 100%;
+ padding-top: 30px;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 4rem;
+  letter-spacing: 5;
+  color:#333;
+  /* margin-bottom: 60px; */
 }
