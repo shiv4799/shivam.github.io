@@ -141,7 +141,7 @@
             // total: Math.floor((settings.end - settings.start) / 86400),
             days:days,
             hours: 24-h,
-            minutes: 59-m,
+            minutes: 60-m,
             seconds: 60-s
         }
         // timer = {
